@@ -5,6 +5,7 @@
 	<title>Todo List WebApp - {{title}}</title>
 </head>
 <body>
+	<h1>TODO List</h1>
 	{{!base}}
 </body>
 </html>
