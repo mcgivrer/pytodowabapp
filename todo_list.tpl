@@ -4,7 +4,7 @@
 <ul border="1">
 %for row in rows:
 <li>
-    <input type="checkbox" id="{{row[1]}}" value="{{row[3]}}" /><span>{{row[2]}}</span>
+    <input type="checkbox" id="{{row["id"]}}" value="{{row["status"]}}" /><span>{{row["task"]}}</span>
 </li>
 %end
 </ul>
