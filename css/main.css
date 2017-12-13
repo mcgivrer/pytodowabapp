@@ -1,0 +1,8 @@
+html > * {
+	border:none;
+	padding:none;
+	margin:none;
+}
+body {
+	margin:1em;
+}
