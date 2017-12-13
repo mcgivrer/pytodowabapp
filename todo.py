@@ -3,11 +3,11 @@ import markdown
 import os
 from bottle import route, run, debug, template, request, error, static_file
 
-@route('/css/<file:path>', method='GET')
+@route('/resources/<file:path>', method='GET')
 def files(file):
-    print (os.path.abspath(__file__))
-    print ('/css/%s' % file)
-    return static_file( '/css/%s' % file,root=os.path.abspath(__file__))
+    dir_path = os.path.dirname(os.path.realpath(__file__))
+    print ('/public/%s' % file)
+    return static_file( '/public/%s' % file, root=dir_path)
 
 @route('/')
 @route('/todo')
@@ -16,7 +16,7 @@ def tasks_list(msg=""):
     conn = sqlite3.connect('todo.db')
     conn.row_factory = sqlite3.Row
     c = conn.cursor()
-    c.execute("SELECT id, description, status, priority FROM task order by priority DESC, status ASC")
+    c.execute("SELECT id, description, status, priority FROM task order by status ASC, priority DESC, id DESC")
     result = c.fetchall()
 
     c.close()
@@ -90,7 +90,7 @@ def save():
     return tasks_list('<p>The new task was inserted into the database, the ID is %s</p>' % id)
 
 @route('/done/<id:int>', method='GET')
-def task_done(id):
+def task_status_done(id):
 
     conn = sqlite3.connect('todo.db')
     conn.row_factory = sqlite3.Row
@@ -103,7 +103,7 @@ def task_done(id):
 
 
 @route('/todo/<id:int>', method='GET')
-def task_done(id):
+def task_status_todo(id):
 
     conn = sqlite3.connect('todo.db')
     conn.row_factory = sqlite3.Row

@@ -1,0 +1,81 @@
+html > * {
+	border:none;
+	padding:none;
+	margin:none;
+}
+body {
+	margin:1em;
+	font-family: sans-serif;
+}
+table.tasks {
+	border: 1px #000 solid;
+	width:100%;
+}
+table.tasks thead {
+	background-color:#eee;
+}
+table.tasks tbody td.id {
+	font-size:8pt;
+	text-align: center;
+}
+table.tasks tbody a{
+	font-size:0.8em;
+}
+table.tasks tbody tr.status0{
+	background-color:#e99;
+}
+table.tasks tbody tr.status1{
+	background-color:#eee;
+	font-style: italic;
+	color:#888;	
+}
+table.tasks tbody tr td.action{
+	color:black;	
+	text-align:center;
+}
+table.tasks tbody tr.status0 td.prio {
+	text-align:center;
+}
+table.tasks tbody tr.status0 td.level0{
+	background-color:#e99;	
+	color:maroon;
+}
+table.tasks tbody tr.status0 td.level1{
+	background-color:#e66;	
+	color:maroon;	
+}
+table.tasks tbody tr.status0 td.level2{
+	background-color:#e33;
+	color:maroon;	
+}
+table.tasks tbody tr.status1 td.level0{
+	background-color:#9e9;	
+	color:#393;
+}
+table.tasks tbody tr.status1 td.level1{
+	background-color:#6e6;	
+	color:#393;	
+}
+table.tasks tbody tr.status1 td.level2{
+	background-color:#3e3;
+	color:#393;	
+}
+
+
+.actions {
+	border-top:1px #333 dotted;
+	text-align:right;
+	margin:1em 0em;
+	padding:1em 0em;
+}
+.actions a {
+	border:1px #999 outline;
+	padding:0.6em;
+	margin-left:0.5em;
+	padding:0.4em;
+	background-color:#eee;
+	border-radius:0.1em;
+}
+.actions a:first-child {
+	margin:0em;
+}

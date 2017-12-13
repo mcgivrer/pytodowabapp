@@ -7,7 +7,6 @@
 		<option value="1">Medium</option>
 		<option value="2">High</option>
 	</select>
-  <input type="text" size="400" maxlength="400" name="description" value="{{old['priority']}}">
   <input type="text" size="400" maxlength="400" name="description" value="{{old['description']}}">
   <input type="hidden" name="status" value="{{old['status']}}"/>
   <input type="submit" name="save" value="save">
