@@ -1,0 +1,682 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"platf",
+				"platform_read_by_id"
+			],
+			[
+				"platform_",
+				"platform_read_by_id"
+			],
+			[
+				"platform",
+				"platforms_all"
+			],
+			[
+				"games",
+				"games_search_count_per_platform"
+			],
+			[
+				"games_",
+				"games_search_per_plaform"
+			],
+			[
+				"platforms",
+				"platforms_json"
+			],
+			[
+				"platfr",
+				"platformSel"
+			],
+			[
+				"pltform",
+				"platformSel"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"get",
+				"get_grom_imdb"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"color-",
+				"color-dodge"
+			],
+			[
+				"bacground-",
+				"background-blend-mode"
+			],
+			[
+				"tec",
+				"text-decoration"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"backound",
+				"background-position"
+			],
+			[
+				"background-",
+				"background-size"
+			],
+			[
+				"author",
+				"author_lastname"
+			],
+			[
+				"tasks",
+				"tasks_list"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"align",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/212391884/projects/perso/games/templates/default/theme.css",
+			"settings":
+			{
+				"buffer_size": 8370,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				]
+			],
+			[
+				"Packages/Lua Love/LuaLove.sublime-build",
+				"Love2D"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 139.0,
+		"last_filter": "bottl",
+		"selected_items":
+		[
+			[
+				"bottl",
+				"Set Syntax: HTML (Bottle)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git a",
+				"Git: Add All"
+			],
+			[
+				"form",
+				"CoolFormat: Quick Format"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"javac",
+				"Javatar: Calls..."
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"FOR",
+				"CoolFormat: Quick Format"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pyth",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"python",
+				"Build With: Python"
+			],
+			[
+				"set s markdown",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"javatar",
+				"Javatar: Create new..."
+			],
+			[
+				"for",
+				"CoolFormat: Quick Format"
+			],
+			[
+				"",
+				"CoolFormat: Quick Format"
+			],
+			[
+				"format",
+				"CoolFormat: Quick Format"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"mavn",
+				"Maven: Run install"
+			],
+			[
+				"exe",
+				"Maven: Exec:java"
+			],
+			[
+				"set syntax jav",
+				"Set Syntax: Java"
+			],
+			[
+				"show",
+				"Git: Show"
+			],
+			[
+				"lualo",
+				"Set Syntax: Lua (Love)"
+			],
+			[
+				"gitflo",
+				"Git-flow: Feature Start"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 613.0
+	},
+	"console":
+	{
+		"height": 255.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/212391884/projects/perso/games",
+		"/C/Users/212391884/projects/perso/games/public",
+		"/C/Users/212391884/projects/perso/games/public/css",
+		"/C/Users/212391884/projects/perso/games/templates",
+		"/C/Users/212391884/projects/perso/games/templates/default",
+		"/C/Users/212391884/projects/perso/grid-flexbox"
+	],
+	"file_history":
+	[
+		"/C/Users/212391884/projects/perso/games/templates/default/games_list.tpl",
+		"/C/Users/212391884/projects/perso/games/templates/default/game_show.tpl",
+		"/C/Users/212391884/projects/perso/games/init.py",
+		"/C/Users/212391884/projects/perso/games/templates/default/index.tpl",
+		"/C/Users/212391884/projects/perso/games/templates/base.tpl",
+		"/C/Users/212391884/projects/perso/games/index.py",
+		"/C/Users/212391884/projects/perso/games/templates/default/article.tpl",
+		"/C/Users/212391884/projects/perso/games/templates/default/rates.tpl",
+		"/C/Users/212391884/projects/perso/games/templates/default/search.tpl",
+		"/C/Users/212391884/Documents/pom-exec-plugin.xml",
+		"/C/Users/212391884/projects/perso/games/templates/admin.tpl",
+		"/C/Users/212391884/projects/perso/games/app.log",
+		"/C/Users/212391884/projects/perso/games/demo-auth.py",
+		"/C/Users/212391884/projects/perso/games/requirements.txt",
+		"/C/Users/212391884/projects/perso/games/README.md",
+		"/C/Users/212391884/projects/perso/games/public/css/main.css",
+		"/C/Users/212391884/projects/perso/games/templates/default/platforms_list.tpl",
+		"/C/Users/212391884/projects/perso/games/templates/default/pagination.tpl",
+		"/C/Users/212391884/projects/perso/games/templates/default/game_edit.tpl",
+		"/C/Users/212391884/projects/perso/games/imdb-search.py",
+		"/C/Users/212391884/projects/perso/games/templates/default/theme.css",
+		"/C/Users/212391884/projects/perso/ToDoApp/todo.py",
+		"/C/Users/212391884/projects/perso/grid-flexbox/main.css",
+		"/C/Users/212391884/projects/perso/games/templates/default/theme.scss",
+		"/C/Users/212391884/projects/perso/games/amazon-test.py",
+		"/C/Users/212391884/projects/perso/javascript/ParticleSystemDemo/particlesystem.js",
+		"/C/Users/212391884/projects/perso/grid-flexbox/index.html",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/GDJ110/pom.xml",
+		"/C/tools/editor/sublime_text/Data/Packages/User/Javatar.sublime-settings",
+		"/C/tools/editor/sublime_text/Data/Packages/Javatar/README.md",
+		"/C/tools/editor/sublime_text/Data/Packages/Javatar/Javatar.sublime-settings",
+		"/C/Users/212391884/projects/perso/javascript/ParticleSystemDemo/demo.html",
+		"/C/Users/212391884/projects/perso/pom-standard-java-project.xml",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/GDJ110/.gitignore",
+		"/C/Users/212391884/Box Sync/work/architecture/DWARB/roadmap/Edge Breast Positioner/roadmap-2018-2020-Vincent-Fred-v1.0-20171222.md",
+		"/C/Users/212391884/projects/perso/ToDoApp/requirements.txt",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/GDJ110/docs/vec2d.py",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/GDJ110/docs/particles.py",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/GDJ110/docs/particles.md",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/prototypes/gltest/GameLoopTest.java",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/prototypes/gltest/Game.java",
+		"/C/Users/212391884/projects/perso/games/public/images/games.png",
+		"/C/Users/212391884/projects/perso/games/select_game_by_platform.sql",
+		"/C/Users/212391884/projects/perso/ToDoApp/templates/base.tpl",
+		"/C/Users/212391884/projects/perso/ToDoApp/public/css/main.css",
+		"/C/Users/212391884/projects/perso/ToDoApp/templates/default/tasks_list.tpl",
+		"/C/Users/212391884/projects/perso/games/resources/themes/default/templates/game_edit.tpl",
+		"/C/Users/212391884/projects/perso/games/resources/themes/default/templates/game_show.tpl",
+		"/C/Users/212391884/projects/perso/games/resources/themes/default/templates/games_list.tpl",
+		"/C/Users/212391884/projects/perso/games/resources/themes/default/base.tpl",
+		"/C/Users/212391884/projects/perso/games/resources/themes/default/templates/init.py",
+		"/C/Users/212391884/projects/perso/ToDoApp/templates/default/task_create.tpl",
+		"/C/Users/212391884/projects/perso/ToDoApp/templates/default/task_edit.tpl",
+		"/C/Users/212391884/projects/perso/ToDoApp/init.py",
+		"/C/Users/212391884/projects/perso/ToDoApp/templates/default/theme.css",
+		"/C/Users/212391884/projects/perso/ToDoApp/templates/task_edit.tpl",
+		"/C/Users/212391884/projects/perso/ToDoApp/templates/task_create.tpl",
+		"/C/Users/212391884/projects/perso/ToDoApp/templates/tasks_list.tpl",
+		"/C/Users/212391884/Desktop/Point Suivi ARB/ARB-Projects-Followup-20171214.md",
+		"/C/Users/212391884/projects/perso/ToDoApp/README.md",
+		"/C/Users/212391884/projects/perso/ToDoApp/css/main.css",
+		"/C/Users/212391884/Desktop/Point Suivi ARB/ToDoApp/new_task.tpl",
+		"/C/Users/212391884/Desktop/Point Suivi ARB/ToDoApp/todo_list.tpl",
+		"/C/Users/212391884/Desktop/Point Suivi ARB/ToDoApp/base.tpl",
+		"/C/Users/212391884/Desktop/Point Suivi ARB/ToDoApp/requirements.txt",
+		"/C/Users/212391884/Desktop/Point Suivi ARB/ToDoApp/todo.py",
+		"/C/Users/212391884/Desktop/Point Suivi ARB/ToDoApp/init.py",
+		"/C/Users/212391884/Desktop/Point Suivi ARB/ToDoApp/edit_task.tpl",
+		"/C/Users/212391884/Desktop/Point Suivi ARB/mission-da.md",
+		"/C/Users/212391884/Desktop/Point Suivi ARB/ARB Meeting Scribes.md",
+		"/C/Users/212391884/Desktop/Point Suivi ARB/todoapp.py",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/GDJ110/README.md",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/GDJ110/src/main/resources/res/messages_FR_fr.properties",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/GDJ110/src/main/resources/res/messages.properties",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/Docs/materials-characteristics-20171204.md",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/GDJ110/src/main/scripts/gdj.sh",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/GDJ110/src/main/scripts/gdj.bat",
+		"/C/Users/212391884/git/gitconfig",
+		"/C/Users/212391884/Desktop/sublime-text-3-gmail-configuration.md",
+		"/C/Users/212391884/Box Sync/perso/documents/pere-noel-le-cendre-20121205.md",
+		"/C/tools/editor/sublime_text/Data/Packages/User/QuickMail.sublime-settings",
+		"/C/tools/editor/sublime_text/Data/Packages/Gmail/QuickMail.sublime-settings",
+		"/C/Users/212391884/Box Sync/work/Code-Room-April-May-2017.pptx",
+		"/C/Users/212391884/Desktop/Point Suivi ARB/Idées/Etage Image dans DoseWatch_20171204_FDE_VPA.md",
+		"/C/Users/212391884/Desktop/Point Suivi ARB/New_Alert_System_20171124-FDE-v1.0.md",
+		"/C/Users/212391884/Desktop/Point Suivi ARB/dw-distributed-integration-alert.png",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/prototypes/rain/README.md",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/prototypes/rain/.git/config",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/GDJ107/.git/config",
+		"/C/Users/212391884/.m2/settings.xml",
+		"/C/Users/212391884/Box Sync/work/architecture/DWARB/DEPS/routes.md",
+		"/C/Users/212391884/projects/dosewatch/features/README.md",
+		"/C/Users/212391884/Downloads/monitoring-software-20171116-FDE.md",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/Docs/txt-markdown.md",
+		"/C/Users/212391884/Box Sync/work/architecture/DWARB/NewAlertSystem/SizeBasedAlert-NewAlertSystem-20171120-FDE.md",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/GDJ107/pom.xml",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/Docs/samples/snippet-gameloop.java",
+		"/C/Users/212391884/.ssh/config",
+		"/C/tools/editor/sublime_text/Data/Packages/Lua Love/LuaLove.sublime-settings",
+		"/C/tools/editor/sublime_text/Data/Packages/User/LuaLove.sublime-settings",
+		"/C/Users/212391884/projects/perso/snapgames/tutorial-games/wiki/docs/codes/Game.java",
+		"/C/Users/212391884/projects/perso/snapgames/tutorial-games/wiki/docs/codes/BouncingSprite.java",
+		"/C/Users/212391884/projects/perso/snapgames/snapgames.github.io/css/main.css",
+		"/C/Users/212391884/projects/perso/snapgames/snapgames.github.io/index.html",
+		"/C/Users/212391884/projects/perso/snapgames/snapgames.github.io/partials/articles.html",
+		"/C/Users/212391884/Documents/Personnel/documentation/txt-markdown.md",
+		"/C/Users/212391884/.ssh/fdelorme_snapgames_id_rsa.pub",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/GDJ107/target/classes/res/game.xml",
+		"/C/tools/editor/sublime_text/Data/Packages/OmniMarkupPreviewer/templates/github-uml.tpl",
+		"/C/tools/editor/sublime_text/Data/Packages/User/OmniMarkupPreviewer.sublime-settings",
+		"/C/tools/editor/sublime_text/Data/Packages/OmniMarkupPreviewer/OmniMarkupPreviewer.sublime-settings",
+		"/C/Users/212391884/Box Sync/work/architecture/DWARB/roadmap/strategy-2020/Old-spec-DW20-Modules/CR-20140710-configuration.textile",
+		"/C/Users/212391884/Box Sync/work/architecture/DWARB/roadmap/strategy-2020/Old-spec-DW20-Modules/CR-20140710-confguration-modules.textile",
+		"/C/Users/212391884/Desktop/DtW-onpremise-cloud-service.md",
+		"/C/Users/212391884/Box Sync/work/architecture/Applications/DW-DoseWatch/2.0/Modules/CR-20140710-1500.textile",
+		"/C/Users/212391884/Box Sync/work/architecture/DWARB/roadmap/strategy-2020/Old-spec-DW20-Modules/CR-team-archi-synchro.textile",
+		"/C/Users/212391884/Documents/Personnel/documentation/Développer son premier jeu de plateforme avec Java.md",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/GDJ105/README.md",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/GDJ106/README.md",
+		"/C/Users/212391884/Desktop/Webex_french_conf_call.md",
+		"/C/Users/212391884/Box Sync/work/architecture/DWARB/roadmap/Monitoring-transport-2017-October-23.md",
+		"/C/Users/212391884/Box Sync/work/architecture/DWARB/DataWatch/DataWatch-CPM-20171025-presentation.md",
+		"/C/Users/212391884/Desktop/Data-Mapping-Service-Workout_20171026.md",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/GDJ106/src/main/ide/settings.xml",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/GDJ106/pom.xml",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/GDJ106/src/main/scripts/gdj106.sh",
+		"/C/Users/212391884/projects/perso/snapgames/GDJ/GDJ106/src/main/scripts/gdj106.bat",
+		"/C/Users/212391884/Desktop/pom-jar-to-exe-maven-shade.xml"
+	],
+	"find":
+	{
+		"height": 49.0
+	},
+	"find_in_files":
+	{
+		"height": 274.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getConn",
+			"games_search_count_per_platform",
+			"games_search_count",
+			"game_read_by_id",
+			"games_count_per_search",
+			"']['",
+			"0em",
+			"\n}",
+			"both",
+			"()",
+			"span",
+			"@route(",
+			"print",
+			"platform_name",
+			"platform_n",
+			"game",
+			"platforms_json",
+			":\n",
+			"request",
+			"action",
+			"50em",
+			"tasks",
+			"keyfile",
+			"get_grom_imdb",
+			"Item",
+			"item",
+			"description",
+			"game",
+			"game_edit",
+			"platform",
+			"LIMIT 10",
+			"nbGames",
+			";\n",
+			"end",
+			";\n",
+			"\t",
+			"\n\t",
+			";\n",
+			" ",
+			"name",
+			"contant",
+			"\t",
+			"title",
+			"head",
+			"status",
+			"path_template",
+			"row",
+			"result",
+			"priority",
+			": ",
+			"new",
+			"GET",
+			"task_edit",
+			"tpl",
+			"description",
+			"True"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"@app.route(",
+			"LIMIT 6",
+			"    ",
+			" ",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/212391884/projects/perso/games/templates/default/theme.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4342,
+								4342
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3983.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 88.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.687878787879,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 172.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-init":
+	{
+		"height": 100.0
+	},
+	"output.mvn_exec":
+	{
+		"height": 81.0
+	},
+	"pinned_build_system": "",
+	"project": "todoapp.sublime-project",
+	"replace":
+	{
+		"height": 53.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"CameraObject"
+			]
+		],
+		"width": 490.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

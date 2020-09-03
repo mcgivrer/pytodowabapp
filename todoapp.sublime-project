@@ -1,0 +1,37 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"todo.db"
+			],
+			"path": "."
+		},
+		{
+			"path": "C:\\Users\\212391884\\projects\\perso\\games"
+		},
+		{
+			"path": "C:\\Users\\212391884\\projects\\perso\\javascript\\ParticleSystemDemo"
+		},
+		{
+			"path": "C:\\Users\\212391884\\projects\\perso\\grid-flexbox"
+		},
+		{
+			"file_exclude_patterns":
+			[
+				".classpath",
+				".project",
+				".settings/org.eclipse.jdt.core.prefs",
+				".settings/org.eclipse.core.resources.prefs",
+				".settings/org.eclipse.m2e.core.prefs"
+			],
+			"folder_exclude_patterns":
+			[
+				"target",
+				".idea"
+			],
+			"path": "C:\\Users\\212391884\\projects\\perso\\snapgames\\GDJ\\GDJ110"
+		}
+	]
+}
